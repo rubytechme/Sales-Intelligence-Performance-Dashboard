@@ -5,6 +5,7 @@
 ## Introduction:
 
 This report presents a comprehensive analysis of the company’s performance across revenue, profit, product categories, store locations, and seasonal trends for the years 2022 and 2023. It highlights key performance indicators, identifies patterns, and examines areas of strength and concern.
+
 Ultimately, this analysis aims to support strategic decision-making by identifying growth opportunities, operational inefficiencies, and actionable recommendations to improve both revenue generation and profitability moving forward.
 
 ## Key KPIs:
@@ -98,43 +99,49 @@ Similarly, Maven Toys Ciudad de México 1 also performed strongly across the boa
 In summary, it's clear that the Maven Toys Ciudad de México locations are top-performing stores, demonstrating consistently strong sales, profitability, and customer volume. This makes them valuable benchmarks for assessing store-level performance and identifying strategies that can be replicated across other locations.
 
 
-## You can interact with the live visualization here:
-Www.
+## Live Dashboard:
+You can interact with the live visualization [HERE](https://abi.com/groups/me/reports/48051f89-a36b-4b97-876a-c70e292092f7/ReportSection?experience=power-bi)
 
 
 ## Conclusion and Recommendations:
 
 ### Conclusion
 The overall business performance between 2022 and 2023 shows signs of both consistency and areas of concern. While revenue only declined by 6.9%, this figure may not fully reflect actual performance due to missing Q4 2023 data. Historically strong quarters like Q2 and Q4 continue to drive the majority of revenue and profit, with Q4 2022 being particularly outstanding likely due to increased tourism and seasonal demand.
+
 Profit margins remain thin, particularly within the Toys category, which, although high in volume and revenue, underperforms in profitability compared to smaller categories like Arts & Crafts and Electronics. Additionally, the average unit price appears to have dropped in 2023, impacting revenue despite a nearly equivalent quantity sold to 2022.
+
 In terms of geographic performance, the Downtown zone consistently leads all others, accounting for over half of total revenue. At the store level, Maven Toys Ciudad de México (both branches) emerged as top performers, leading in revenue, profit, and quantity sold.
 
 ### Key Recommendations
 
-1. Investigate Pricing Strategy
+1. Investigate Pricing Strategy:
 - Conduct a detailed unit price analysis to determine whether 2023's average price decreased and assess if it's aligned with market expectations and cost structure.
 - Consider re-evaluating pricing tiers, especially for low-margin products like Toys.
 
-2. Optimize High-Volume, Low-Margin Categories
+2. Optimize High-Volume, Low-Margin Categories:
 - Review cost drivers in the Toys category to improve margins through better sourcing, bundling, or reducing discount dependency.
 - Explore cross-selling or upselling with higher-margin categories like Electronics or Arts & Crafts.
   
-3. Leverage Seasonal Trends
+3. Leverage Seasonal Trends:
 - Reinforce sales and marketing campaigns during Q2 and Q4, which historically yield the strongest performance.
 - Plan early for holiday campaigns, especially in locations like Downtown and Ciudad de México where revenue spikes are notable.
 
-4. Prioritize High-Performing Stores
+4. Prioritize High-Performing Stores:
 - Use Maven Toys Ciudad de México 1 & 2 as models for operational excellence, staffing, and inventory management.
 - Identify key drivers of their success and apply those learnings to underperforming branches.
   
-5. Address Data Gaps
+5. Address Data Gaps:
 - Ensure timely and complete reporting, especially for critical periods like Q4, to allow for more accurate year-over-year comparisons.
 - Improve systems for real-time data collection and analytics.
 
-6. Strengthen Profitability Monitoring
+6. Strengthen Profitability Monitoring:
 - Shift focus from just top-line revenue to unit economics and margin per product line.
 - Track profit per unit sold, not just overall profit, to better identify which products and locations are truly performing.
 
 
+### Connect with me on socials:
+[LinkedIn](https://www.linkedin.com/in/ruby-ihekweme-aat-b25001174/)
+[Blog](https://medium.com/@rubyugonnaya)
+[Github](https://github.com/rubytechme)
 
 
